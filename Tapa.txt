@@ -1,0 +1,6 @@
+Place: Tapa, EE
+Coordinates: 25.96, 59.27
+Day 1 forecast: 1.13; -3.58
+Day 2 forecast: 1.72; -3.82
+Day 3 forecast: 3.9; -0.85
+Current temperature: 2.0

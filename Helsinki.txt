@@ -1,0 +1,6 @@
+Place: Helsinki, FI
+Coordinates: 24.94, 60.17
+Day 1 forecast: 3.85; 1.61
+Day 2 forecast: 4.69; 0.21
+Day 3 forecast: 4.13; 2.78
+Current temperature: 3.0

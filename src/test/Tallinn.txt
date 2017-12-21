@@ -1,0 +1,6 @@
+Place: Tallinn, EE
+Coordinates: 24.75, 59.44
+Day 1 forecast: -100.0; 100.0
+Day 2 forecast: -100.0; 100.0
+Day 3 forecast: -100.0; 100.0
+Current temperature: -3.0

@@ -1,0 +1,6 @@
+Place: London, GB
+Coordinates: -0.13, 51.51
+Day 1 forecast: -100.0; 100.0
+Day 2 forecast: -100.0; 100.0
+Day 3 forecast: -100.0; 100.0
+Current temperature: 9.45

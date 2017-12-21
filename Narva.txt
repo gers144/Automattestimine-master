@@ -1,0 +1,6 @@
+Place: Narva, RU
+Coordinates: 28.19, 59.38
+Day 1 forecast: 1.04; -2.83
+Day 2 forecast: 0.24; -5.3
+Day 3 forecast: -0.08; -3.39
+Current temperature: -2.83

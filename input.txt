@@ -1,0 +1,5 @@
+Tartu,EE
+Tapa,EE
+London,GB
+Paris,FR
+Helsinki,FIN

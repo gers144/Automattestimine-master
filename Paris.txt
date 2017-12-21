@@ -1,0 +1,6 @@
+Place: Paris, FR
+Coordinates: 2.35, 48.86
+Day 1 forecast: 9.97; 8.04
+Day 2 forecast: 9.2; 7.14
+Day 3 forecast: 7.55; 6.61
+Current temperature: 8.0
